@@ -6,8 +6,6 @@ Applications and their repositories:
  
 To instrument the application from scratch use the source code of [Apache Commons Lang]: https://github.com/apache/commons-lang. This is the same code used for this application.
 
-Read access to both repositories is provided to graders
-
 The application ast-instrumentation is an instrumenting app that takes the source code of another app as input and creates an AST using eclipse JDT.
 The AST is then modified to add instrumentation code. 
 
